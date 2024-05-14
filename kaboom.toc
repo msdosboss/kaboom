@@ -1,0 +1,7 @@
+## Interface: 100207
+## Version: 1.0.0
+## Title: Kaboom
+## Notes: Best addon ever
+## Author: KaBoomer
+
+kaboom.lua
